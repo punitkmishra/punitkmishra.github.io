@@ -1,0 +1,64 @@
+style.css
+Who has access
+System properties
+Type
+Style Sheet
+Size
+466 bytes
+Storage used
+466 bytes
+Location
+week3full
+Owner
+Learning With COURSERA
+Modified
+Dec 1, 2020 by Learning With COURSERA
+Opened
+11:33 AM by me
+Created
+Dec 2, 2020
+No description
+Viewers can download
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;	
+}
